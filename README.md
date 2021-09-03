@@ -1,2 +1,2 @@
-# katran_MnM4SDS_project
+# 788P Project Atlantis
 GEOG788P
